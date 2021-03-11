@@ -4,8 +4,6 @@
 # @Int     : 感知机...
 
 import numpy
-
-
 class Perceptron:
     def __init__(self, f, input_num):
         self.f = f
